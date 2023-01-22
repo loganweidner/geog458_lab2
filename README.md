@@ -3,10 +3,12 @@
 ## "ACAB" Word Clouds
 ### Seattle, WA:
 ![Seattle Word Cloud](./word_clouds/word_cloud_seattle.png)
+
 [Seattle Data CSV File](./data/twsearch-result-seattle.csv)
 
 ### New York, NY:
 ![New York Word Cloud](./word_clouds/word_cloud_newyork.png)
+
 [New York Data CSV File](./data/twsearch-result-newyork.csv)
 
 
