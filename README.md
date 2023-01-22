@@ -4,12 +4,12 @@
 ### Seattle, WA:
 ![Seattle Word Cloud](./word_clouds/word_cloud_seattle.png)
 
-[Seattle Data CSV File](./data/twsearch-result-seattle.csv)
+[Seattle Data CSV File](https://drive.google.com/file/d/1--l7MX14SBeFOory1-9ronwDjX741x9I/view?usp=share_link)
 
 ### New York, NY:
 ![New York Word Cloud](./word_clouds/word_cloud_newyork.png)
 
-[New York Data CSV File](./data/twsearch-result-newyork.csv)
+[New York Data CSV File](https://drive.google.com/file/d/1-GDu1aYUjX5D4oev8_aACpqAKhSy9URK/view?usp=share_link)
 
 
 ## Research Narrative
